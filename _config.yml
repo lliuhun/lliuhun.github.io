@@ -4,14 +4,14 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Liuhun
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote
-  author: John Doe
+  quote: 失语者
+  author: 刘魂
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
